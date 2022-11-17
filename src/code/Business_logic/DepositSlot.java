@@ -1,6 +1,6 @@
 // DepositSlot.java
 // Represents the deposit slot of the ATM
-
+package Business_logic;
 public class DepositSlot 
 {
    // indicates whether envelope was received (always returns true, 
